@@ -38,7 +38,7 @@ body {
     margin: auto;
     flex-wrap: nowrap;
     overflow: hidden;
-    border: 2px var(--main-color) solid;
+    /* border: 2px var(--main-color) solid; */
 }
 
 nav {
